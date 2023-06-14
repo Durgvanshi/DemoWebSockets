@@ -1,0 +1,14 @@
+{
+  "name": "demowebsockets",
+  "version": "1.0.0",
+  "description": "Demo while learning web sockets",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "websocket": "^1.0.34"
+  }
+}
